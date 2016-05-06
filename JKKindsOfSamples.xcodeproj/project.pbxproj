@@ -11,12 +11,16 @@
 		C90511221CD87E1F00990B83 /* JKTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C90511211CD87E1F00990B83 /* JKTableViewController.m */; };
 		C939C21A1CDAFC2700BF6B12 /* JKCycleLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = C939C2191CDAFC2700BF6B12 /* JKCycleLabel.m */; };
 		C939C21D1CDB187200BF6B12 /* JKCycleLabelController.m in Sources */ = {isa = PBXBuildFile; fileRef = C939C21C1CDB187200BF6B12 /* JKCycleLabelController.m */; };
+		C93A58A31CDC283400AA6873 /* JKMovieTicketController.m in Sources */ = {isa = PBXBuildFile; fileRef = C93A58A21CDC283400AA6873 /* JKMovieTicketController.m */; };
+		C93A58A61CDC292900AA6873 /* JKChooseView.m in Sources */ = {isa = PBXBuildFile; fileRef = C93A58A51CDC292900AA6873 /* JKChooseView.m */; };
 		C94D640D1CD834E4009DD75F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C94D640C1CD834E4009DD75F /* main.m */; };
 		C94D64101CD834E4009DD75F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C94D640F1CD834E4009DD75F /* AppDelegate.m */; };
 		C94D64161CD834E4009DD75F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C94D64141CD834E4009DD75F /* Main.storyboard */; };
 		C94D64181CD834E4009DD75F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C94D64171CD834E4009DD75F /* Assets.xcassets */; };
 		C94D641B1CD834E4009DD75F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C94D64191CD834E4009DD75F /* LaunchScreen.storyboard */; };
 		C94D642F1CD83D91009DD75F /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = C94D642E1CD83D91009DD75F /* UIView+Extension.m */; };
+		C991C1991CDC7156007E8E76 /* JKChooseViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C991C1981CDC7156007E8E76 /* JKChooseViewCell.m */; };
+		C991C19C1CDC7D5B007E8E76 /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = C991C19B1CDC7D5B007E8E76 /* UIImage+Extension.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +32,10 @@
 		C939C2191CDAFC2700BF6B12 /* JKCycleLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKCycleLabel.m; sourceTree = "<group>"; };
 		C939C21B1CDB187200BF6B12 /* JKCycleLabelController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKCycleLabelController.h; sourceTree = "<group>"; };
 		C939C21C1CDB187200BF6B12 /* JKCycleLabelController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKCycleLabelController.m; sourceTree = "<group>"; };
+		C93A58A11CDC283400AA6873 /* JKMovieTicketController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKMovieTicketController.h; sourceTree = "<group>"; };
+		C93A58A21CDC283400AA6873 /* JKMovieTicketController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKMovieTicketController.m; sourceTree = "<group>"; };
+		C93A58A41CDC292900AA6873 /* JKChooseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKChooseView.h; sourceTree = "<group>"; };
+		C93A58A51CDC292900AA6873 /* JKChooseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKChooseView.m; sourceTree = "<group>"; };
 		C94D64081CD834E4009DD75F /* JKKindsOfSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JKKindsOfSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C94D640C1CD834E4009DD75F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C94D640E1CD834E4009DD75F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -38,6 +46,10 @@
 		C94D641C1CD834E4009DD75F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C94D642D1CD83D91009DD75F /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		C94D642E1CD83D91009DD75F /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		C991C1971CDC7156007E8E76 /* JKChooseViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JKChooseViewCell.h; sourceTree = "<group>"; };
+		C991C1981CDC7156007E8E76 /* JKChooseViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JKChooseViewCell.m; sourceTree = "<group>"; };
+		C991C19A1CDC7D5B007E8E76 /* UIImage+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Extension.h"; sourceTree = "<group>"; };
+		C991C19B1CDC7D5B007E8E76 /* UIImage+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Extension.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +83,19 @@
 			path = JKCycleLabel;
 			sourceTree = "<group>";
 		};
+		C93A58A01CDC281200AA6873 /* JKMovieTicketSample */ = {
+			isa = PBXGroup;
+			children = (
+				C93A58A11CDC283400AA6873 /* JKMovieTicketController.h */,
+				C93A58A21CDC283400AA6873 /* JKMovieTicketController.m */,
+				C93A58A41CDC292900AA6873 /* JKChooseView.h */,
+				C93A58A51CDC292900AA6873 /* JKChooseView.m */,
+				C991C1971CDC7156007E8E76 /* JKChooseViewCell.h */,
+				C991C1981CDC7156007E8E76 /* JKChooseViewCell.m */,
+			);
+			path = JKMovieTicketSample;
+			sourceTree = "<group>";
+		};
 		C94D63FF1CD834E4009DD75F = {
 			isa = PBXGroup;
 			children = (
@@ -90,6 +115,7 @@
 		C94D640A1CD834E4009DD75F /* JKKindsOfSamples */ = {
 			isa = PBXGroup;
 			children = (
+				C93A58A01CDC281200AA6873 /* JKMovieTicketSample */,
 				C939C2171CDAFC0200BF6B12 /* JKCycleLabel */,
 				C905111C1CD87D2000990B83 /* JKContainerController */,
 				C94D642B1CD83D15009DD75F /* Common */,
@@ -117,6 +143,8 @@
 		C94D642B1CD83D15009DD75F /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				C991C19A1CDC7D5B007E8E76 /* UIImage+Extension.h */,
+				C991C19B1CDC7D5B007E8E76 /* UIImage+Extension.m */,
 				C94D642D1CD83D91009DD75F /* UIView+Extension.h */,
 				C94D642E1CD83D91009DD75F /* UIView+Extension.m */,
 			);
@@ -194,10 +222,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				C905111F1CD87D4C00990B83 /* JKContainerController.m in Sources */,
+				C93A58A61CDC292900AA6873 /* JKChooseView.m in Sources */,
+				C991C1991CDC7156007E8E76 /* JKChooseViewCell.m in Sources */,
+				C93A58A31CDC283400AA6873 /* JKMovieTicketController.m in Sources */,
 				C90511221CD87E1F00990B83 /* JKTableViewController.m in Sources */,
 				C939C21D1CDB187200BF6B12 /* JKCycleLabelController.m in Sources */,
 				C94D64101CD834E4009DD75F /* AppDelegate.m in Sources */,
 				C94D642F1CD83D91009DD75F /* UIView+Extension.m in Sources */,
+				C991C19C1CDC7D5B007E8E76 /* UIImage+Extension.m in Sources */,
 				C939C21A1CDAFC2700BF6B12 /* JKCycleLabel.m in Sources */,
 				C94D640D1CD834E4009DD75F /* main.m in Sources */,
 			);
